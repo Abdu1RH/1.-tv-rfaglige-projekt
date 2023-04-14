@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Interactive UI &amp; components</string>
+    <string name="home">Home</string>
+    <string name="popular">Popular</string>
+    <string name="live">Live</string>
+    <string name="velkommen_til_min_app">Velkommen
+        til min
+        App</string>
+    <string name="k_b_banan">Køb Banan</string>
+    <string name="k_b_ble">Køb æble</string>
+    <string name="velkommen_til_min_app_2">Velkommen til min app</string>
+    <string name="bdhabcahbc">bdhabcahbc</string>
+    <string name="jnananjan">jnananjan</string>
+    <string name="anksniank">anksniank</string>
+    <string name="Menu">Menu</string>
+    <string name="all_read">All read</string>
+    <string name="show_konfetti">Show Konfetti</string>
+    <string name="fart_button">Fart Button</string>
+
+</resources>
